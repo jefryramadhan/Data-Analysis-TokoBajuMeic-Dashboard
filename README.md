@@ -1,4 +1,4 @@
-# Analisis Penjualan & Dashboard Interaktif Kedai Kopi Senja
+# Analisis Penjualan & Dashboard Interaktif Toko Outfit MEIC (Me in Crown)
 
 ## Dataset yang Digunakan
 - <a href="https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard/blob/main/Analisis%20Penjualan-Kedai%20kopi%20senja.xlsx">Dataset</a>
