@@ -1,7 +1,7 @@
 # Analisis Penjualan & Dashboard Interaktif Toko Outfit MEIC (Me in Crown)
 
 ## Dataset yang Digunakan
-- <a href="https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard/blob/main/Analisis%20Penjualan-Kedai%20kopi%20senja.xlsx">Dataset</a>
+- <a href="https://github.com/jefryramadhan/Data-Analysis-TokoBajuMeic-Dashboard/blob/main/Analisis%20Bisnis%20Meic.xlsx">Dataset</a>
 
 ## Latar Belakang Proyek
 Proyek ini merupakan studi kasus analisis penjualan bisnis kakakku yaitu produk , **"Outfit MEIC (Me In Crown)"**. Dari Data transaksi yang masih manual, terpisah dan berantakan menjadi sebuah dashboard yang interaktif. Tujuannya adalah untuk mengidentifikasi produk bisnis yang profitable dan memberikan rekomendasi strategis untuk meningkatkan penjualan produk serta membantu kakakku beralih dari pengambilan keputusan berbasis intuisi ke berbasis data.
@@ -23,10 +23,11 @@ Proyek ini dikerjakan melalui beberapa tahapan utama:
 2. **Data Cleaning & preparation:** Membersihkan data dengan format yang salah menggunakan rumus `Find & Replace`, dan `Filter`.
 3. **Data Analysis:** Menganalisis data menggunakan PivotTable untuk mengetahui pola dan tren penjualan.
 4. **Data Visualization:** Membangun dashboard interaktif menggunakan PivotTable dan slicer untuk visualisasi data.
-5. **Dashboard Intreaktif:** <a href="https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard/blob/main/Dashboard1.png">Lihat Dashboard</a>
+5. **Dashboard Intreaktif:** <a href="https://github.com/jefryramadhan/Data-Analysis-TokoBajuMeic-Dashboard/blob/main/Dashboard%20Outfit%20MEIC.png">Lihat Dashboard</a>
 
 ## Dashboard
-![Dashboard](https://github.com/user-attachments/assets/1dd7f86f-c2f0-434b-9984-6bcb189d12a7)
+<img width="1029" height="1080" alt="Dashboard Outfit MEIC" src="https://github.com/user-attachments/assets/3cc7ceb8-16df-4077-918c-074f1659edb5" />
+
 
 
 ## Insight
